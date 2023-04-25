@@ -1,0 +1,1 @@
+Zoo Management System project in PHP MySQL focuses mainly on keeping track of visitors, animals, and more. To be more precise, the system helps to keep track of visitors, sponsors, and animal records with respect to categories. Also, the system displays all the available vacancies. In addition, the system allows ticket reservations for the visitors.
